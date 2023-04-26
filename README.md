@@ -1,4 +1,4 @@
-# First_DL_project
+# [DL] Unsupervised Domain Adaptation project
 My first deep learning project.
 The topic is Unsupervised Domain Adaptation.
 I implemented the following paper: arXiv:1412.3474 [cs.CV] to the Adaptiope Dataset without looking at the source code.
