@@ -1,2 +1,3 @@
 # [DL] Unsupervised Domain Adaptation project
-Created for the course "Deep Learning" at University of Trento
+A simple CNN applied to the Adaptiope dataset.
+Task: Recognizing objects from domain B, if you trained supervisedly on domain A, and only unsupervisedly on domain B.
